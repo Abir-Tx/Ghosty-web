@@ -1,5 +1,7 @@
 # Ghosty Web
 
+> **NB**: The organization is no more alive hence the project is dead now. Some API fetching links does not work as the organization has been deleted. You might fetch and change the API endpoints to make changes for other organization as this project might be a good template but as of now the project is dead.
+
 ![Web capture_16-8-2022_224943_localhost-By-Mushfiqur-Rahman-Abir](https://user-images.githubusercontent.com/28858998/184935199-6c663c08-7e64-48bb-b5f4-a6043e2f8552.jpeg)
 
 The official web development repository for **Ghosty Organization** - A GitHub organization of developers to build bots, apps & other cool stuffs. The website is built using **ReactJS** and is hosted on https://ghostydevs.vercel.app
